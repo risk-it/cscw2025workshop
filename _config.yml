@@ -22,7 +22,7 @@ title: CSCW Workshop on Risk Work
 email: mlee89@gmu.edu
 description: This project is supported by the U.S. National Science Foundation (Award No. 2211359, 2211360, 2211361).
 baseurl: "/cscw2025workshop" # the subpath of your site, e.g. /blog
-url: "https://risk-it.github.io/cscw2025workshop" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
